@@ -1,0 +1,41 @@
+{
+  "name": "erc20",
+  "license": "MIT",
+  "version": "1.0.0",
+  "author": "Daniel Liu",
+  "description": "erc20 test contract",
+  "main": "",
+  "keywords": [
+    "BlockChain",
+    "Ethereum",
+    "DeFi",
+    "Smart contracts",
+    "Solidity",
+    "ERC20",
+    "Hardhat"
+  ],
+  "homepage": "https://github.com/gzliudan/erc20-mock-hardhat#README",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gzliudan/erc20-mock-hardhat"
+  },
+  "bugs": {
+    "url": "https://github.com/gzliudan/erc20-mock-hardhat/issues",
+    "email": "liudaniel@qq.com"
+  },
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.14.4",
+    "yarn": ">=1.22.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.23.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.7.1",
+    "prettier-plugin-solidity": "^1.0.0-beta.24",
+    "solhint": "^3.3.7",
+    "solhint-plugin-prettier": "^0.0.5"
+  }
+}
