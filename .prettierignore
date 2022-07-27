@@ -1,0 +1,12 @@
+# node packages
+node_modules
+
+# hardhat
+artifacts
+cache
+
+# solidity-coverage
+coverage*
+
+# hardhat-gas-reporter
+gasReporterOutput.json
